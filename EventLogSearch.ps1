@@ -1,7 +1,7 @@
 <#
 .Synopsis
     Simple PowerShell Script to filter through event logs. 
-Written by John A. [L0wd0wN]
+Written by John [L0wd0wN]
 
 .Description
 You can Search through the logs by ID,LogName,Event Count, Date Ranges, and Event Log Level. 
